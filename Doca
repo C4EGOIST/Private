@@ -1,4 +1,4 @@
---[[ Deobfuscated by MLRTAKEN | Full Source Leak ]]
+--[[ Deobfuscated by C4EGOITS | Full Source Leak ]]
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
